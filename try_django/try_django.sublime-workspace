@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"ho",
+				"home_page"
+			],
+			[
 				"in",
 				"input"
 			],
@@ -73,10 +85,16 @@
 	"expanded_folders":
 	[
 		"/root/Documents/Django/try_django",
-		"/root/Documents/Django/try_django/src"
+		"/root/Documents/Django/try_django/src",
+		"/root/Documents/Django/try_django/src/templates",
+		"/root/Documents/Django/try_django/src/try_django"
 	],
 	"file_history":
 	[
+		"/root/Documents/Django/try_django/src/try_django/views.py",
+		"/root/Documents/Django/try_django/src/try_django/settings.py",
+		"/root/Documents/Django/try_django/src/templates/hello_world.html",
+		"/root/Documents/Django/try_django/src/try_django/urls.py",
 		"/root/Documents/Django/try_django/try_django_sublime-project",
 		"/root/Documents/Django/try_django/src/try_django-sublime-project",
 		"/root/Desktop/yolo_custom_detection/yolo_object_detection.py",
@@ -130,7 +148,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
